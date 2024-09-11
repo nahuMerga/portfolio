@@ -292,19 +292,19 @@ ul {
 }
 
 h3.hello {
-  font-size: 45px;
+  font-size: 30px;
   margin: 15px 0;
 }
 
 h3.hello span {
   font-family: monospace;
-  font-size: 50px;
+  font-size: 40px;
   font-weight: 700;
   color: rgb(255, 153, 0);
 }
 
 h3.my-profession {
-  font-size: 30px;
+  font-size: 20px;
   margin: 15px 0;
 }
 
@@ -313,7 +313,7 @@ h3.my-profession {
 }
 
 .home-info p {
-  font-size: 28px;
+  font-size: 20px;
   margin-bottom: 70px;
   color: var(--text-black-700);
 }
@@ -359,7 +359,7 @@ h3.my-profession {
 }
 
 .about .about-content .about-text h3 {
-  font-size: 24px;
+  font-size: 20px;
   margin-bottom: 15px;
   font-weight: 700;
   color: var(--text-black-900);
