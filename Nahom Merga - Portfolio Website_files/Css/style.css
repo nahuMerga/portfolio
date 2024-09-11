@@ -262,8 +262,8 @@ ul {
 }
 
 .aside .nav li a {
-  font-size: 15px;
-  font-weight: 600;
+  font-size: 12px;
+  font-weight: 400;
   display: block;
   color: var(--text-black-900);
   padding: 5px 15px;
